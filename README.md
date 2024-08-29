@@ -69,7 +69,7 @@ Por último, realiza una investigación y reflexión en forma individual de la
 
 
 - **15%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](https://github.com/Manchas2k4/tc1031)</span>
-- **15%** - Se respetenan los nombres de las funciones en la aplicación.
+- **15%** - Especifican en cada uno de las funcionalidades la complejidad computacional como parte de su documentación.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Esta actividad forma parte tanto de tu calificación final del curso, así como del portafolio de evidencias de las competencias a desarrollar del curso, por lo que se te pide que en forma individual:
